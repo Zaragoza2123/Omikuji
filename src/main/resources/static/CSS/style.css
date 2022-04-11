@@ -1,0 +1,28 @@
+.body
+{	
+	width: 20em;
+	height: 28em;
+	padding: 5px;
+	margin-left: 32%;
+	border-color:black;
+	border-style:solid;
+	border-width:2px;
+}
+.box
+{
+	width: 9em;
+	height: 18em;
+	padding: 5px;
+	margin-left: 34%;
+	border-color:black;
+	border-style:solid;
+	border-width:2px;
+	background-color: #0080ff;
+	font-size: 1.8em;
+}
+h1 {
+	text-align: center;
+}
+.a {
+	text-align: center;
+}
